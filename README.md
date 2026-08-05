@@ -4,11 +4,11 @@
   <h3>Building products, experimenting with AI, and turning ideas into things people can use.</h3>
 
   <p>
-    <a href="https://github.com/viditpvttttt"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="mailto:vidit1727@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/viditpvttttt"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:vidit1727@gmail.com"><img src="https://img.shields.io/badge/Email-8b5cf6?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,supabase,cloudflare,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,supabase,cloudflare,git,github&theme=dark" alt="Tech stack" />
 </div>
 
 ## 👋 Hey, I'm Vidit
@@ -38,10 +38,10 @@ Right now, I'm building **Folio** — an AI agent dashboard focused on bringing 
 ### 🛠️ Tech stack
 
 ```text
-Frontend       React · TypeScript · Vite · Tailwind CSS
-Backend        Supabase · APIs · Cloud services
-Infrastructure Cloudflare · GitHub
-Interests      AI · Agents · Automation · Product Engineering
+Frontend        React · TypeScript · Vite · Tailwind CSS
+Backend         Supabase · APIs · Cloud services
+Infrastructure  Cloudflare · GitHub
+Interests       AI · Agents · Automation · Product Engineering
 ```
 
 ### 📌 Featured
