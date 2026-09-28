@@ -91,5 +91,5 @@
 <line x1="42" y1="580" x2="760" y2="580" stroke="#111" stroke-width="3">
   <animate attributeName="x2" values="620;820;700;760" dur="7s" repeatCount="indefinite"/>
 </line>
-<text x="1158" y="612" text-anchor="end" fill="#777" font-family="monospace" font-size="9">MAKE IT USEFUL / SWEAT THE DETAILS / STAY CURIOUS</text>
+<text x="1158" y="612" text-anchor="end" fill="#777" font-family="monospace" font-size="9">STAY CURIOUS</text>
 </svg>
