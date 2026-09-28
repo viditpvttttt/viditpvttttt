@@ -92,6 +92,14 @@ The interesting part is the **continuity between systems**: conversational inter
 | **Infrastructure** | Docker · Kubernetes · Vercel · AWS |
 | **Workflow** | GitHub · Cursor · Claude · Gemini · ChatGPT · n8n |
 
+<div align="center">
+
+### GitHub achievements
+
+<a href="https://github.com/viditpvttttt"><img src="https://github-profile-trophy.vercel.app/?username=viditpvttttt&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=8" alt="GitHub achievements" /></a>
+
+</div>
+
 ---
 
 <div align="center"><code>06 / PRINCIPLES</code><br><br>**MAKE IT USEFUL** &nbsp; · &nbsp; **SWEAT THE DETAILS** &nbsp; · &nbsp; **STAY CURIOUS**</div>
